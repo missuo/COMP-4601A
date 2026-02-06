@@ -1,0 +1,27 @@
+{
+  "name": "comp-4601a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "crawl": "node crawl.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missuo/COMP-4601A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/missuo/COMP-4601A/issues"
+  },
+  "homepage": "https://github.com/missuo/COMP-4601A#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "cheerio": "^1.2.0",
+    "express": "^5.2.1"
+  }
+}
